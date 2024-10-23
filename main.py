@@ -1,6 +1,6 @@
-print('Hello world')
 
-from manager import NoteManagerr
+
+from manager import NoteManager
 
 def print_menu():
     print("\n==== Меню ====")
